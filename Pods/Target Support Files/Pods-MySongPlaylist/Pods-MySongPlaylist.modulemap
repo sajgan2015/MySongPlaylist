@@ -1,0 +1,6 @@
+framework module Pods_MySongPlaylist {
+  umbrella header "Pods-MySongPlaylist-umbrella.h"
+
+  export *
+  module * { export * }
+}
